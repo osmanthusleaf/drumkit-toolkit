@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="744fb374-db70-4778-8b78-d00e3fddea21" name="Changes" comment="" />
+    <list default="true" id="744fb374-db70-4778-8b78-d00e3fddea21" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/flex-panel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html5-canvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable-selector/array-methods-one/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable-selector/array-methods-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,8 +71,20 @@
       <updated>1646137872532</updated>
       <workItem from="1646137872535" duration="1287000" />
       <workItem from="1646186565555" duration="5714000" />
-      <workItem from="1646203306835" duration="2603000" />
+      <workItem from="1646203306835" duration="4443000" />
+      <workItem from="1646305419814" duration="2306000" />
+      <workItem from="1646398102134" duration="1507000" />
+      <workItem from="1646481969546" duration="2977000" />
+      <workItem from="1646825264029" duration="1495000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1646215213195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646215213195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>

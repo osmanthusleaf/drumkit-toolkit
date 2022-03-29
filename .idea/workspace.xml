@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="744fb374-db70-4778-8b78-d00e3fddea21" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/dev-protips/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-video-player/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-video-player/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-video-player/style.css" afterDir="false" />
+    <list default="true" id="744fb374-db70-4778-8b78-d00e3fddea21" name="Changes" comment="video player commit">
+      <change afterPath="$PROJECT_DIR$/key-detection/key-detector.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +25,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,6 +59,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -76,7 +82,10 @@
       <workItem from="1646398102134" duration="1507000" />
       <workItem from="1646481969546" duration="2977000" />
       <workItem from="1646825264029" duration="2988000" />
-      <workItem from="1646986550243" duration="1700000" />
+      <workItem from="1646986550243" duration="2490000" />
+      <workItem from="1648191506837" duration="502000" />
+      <workItem from="1648514361426" duration="1156000" />
+      <workItem from="1648516012093" duration="167000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1646215213195</created>
@@ -99,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646826904701</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="video player commit">
+      <created>1646988449822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646988449823</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="video player commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="video player commit" />
   </component>
 </project>
